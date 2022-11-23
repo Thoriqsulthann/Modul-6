@@ -1,2 +1,2 @@
-# Modul-6
+# Modul 6
 Codingan Modul 6
